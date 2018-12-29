@@ -1,8 +1,3 @@
-'''
-Created on Dec 29, 2018
-
-@author: iampauke
-'''
 import pymysql
 import pymysql.cursors
 
